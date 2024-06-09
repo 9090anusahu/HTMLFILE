@@ -1,0 +1,180 @@
+/* *{
+    overflow-x: hidden;
+} */
+
+
+nav{
+    background-color: rgb(238, 163, 202);
+  font-size: 20px;
+  height: 80px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+ul li{
+    margin-inline: 40px;
+    margin-top: 30px;
+}
+#one{
+    margin-top: 27px;
+    width: 270px;
+    height: 30px;
+    border: 2px solid black;
+}
+.two {
+    font-size: 15px;
+margin-bottom: 70px;
+}
+li {
+    list-style: none;
+}
+.hii h1{
+color: rgb(132, 0, 132);
+text-align: center;
+font-style: inherit;
+margin-top: 40px;
+font-size: 50px;
+}
+#the{
+    height: 50px;
+    width: 60px;
+    margin-top: 15px;
+    margin-right: 140px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    font-style: initial;
+    /* border-bottom: 2px solid black;
+    border-spacing: 40px; */
+    
+}
+section{
+    display: flex;
+   justify-content: space-between;
+
+}
+.rr{
+    height: 330px;
+    width: 300px;
+    border-radius: 5px;
+    border: 2px solid rgb(141, 138, 138);
+    margin: 35px;
+   
+}
+.rr img{
+    height: 250px;
+    width: 250px;
+}
+p{
+    margin-top: 15px;
+    font-size: 15px;
+}
+.yy{
+   display: flex;
+   justify-content: center;
+
+}
+.ll{
+    height: 20px;
+    width: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    border-radius: 50%;
+}
+#w{
+   background-color: rgb(114, 5, 5);
+}
+h1{
+    margin-top: 50px;
+    color: rgb(139, 10, 10);
+    text-align: center;
+    font-size: 50px;
+}
+p{
+    font-size:18px ;
+   margin-top: 10px;
+}
+.kk{
+    display: flex;
+    justify-content: center;
+}
+.x{
+    height: 250px;
+    width:250px ;
+    
+    border-radius: 2px;
+    margin: 20px;
+    border: 2px solid black;
+}
+.x img{
+    height: 150px;
+    width: 150px;
+    margin-left: 6px;
+}
+.j{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.ok{
+    height: 400px;
+    width: 350px;
+    border-radius: 2px;
+    border: 2px solid rgb(84, 81, 81);
+}
+.ok img{
+    height: 400px;
+    width: 350px;
+}
+.new{
+    text-align: center;
+font-size: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 2px solid rgb(84, 81, 81);
+margin-top: 15px;
+}
+li:after{
+    position: absolute;
+    background-color: blueviolet;
+    transition: 0.3s;
+    bottom: -10px;
+    content: "";
+    height: 3px;
+    width: 0px;
+}
+li:hover{
+    color: rgb(9, 125, 137);
+    cursor: pointer;
+}
+#pink{
+    height: 600px;
+    width: 100vw;
+    background-color: rgb(246, 211, 168);
+    margin-top: 130px;
+}
+.zero{
+  
+    height:600px ;
+    width: 250px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.zero h6{
+    text-align: center;
+    font-size:22px ;
+    color: brown;
+}
+.zero h5 li{
+    margin-top: 24px;
+    text-align: center;
+ color: black;
+ margin-inline: 9px;
+ 
+}
+.zero h6 li:hover{
+    color: rgb(9, 125, 137);
+    cursor: pointer;}

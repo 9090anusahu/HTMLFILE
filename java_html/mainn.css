@@ -1,0 +1,116 @@
+h1{
+    color: blueviolet;
+}
+.two{
+    color: forestgreen;
+}
+#one{
+    color: mediumvioletred;
+}
+input[type="text"]{
+    background-color: aquamarine;
+}
+/* a[href^='https']{
+    background-color: brown;
+} */
+/* a[href*='com']{
+    background-color: darkkhaki;
+} */
+/* a[href$='.com']{
+    background-color: deepskyblue;
+} */
+/* section >p{
+    background-color: blueviolet;
+} */
+/* div{
+    background-color: blueviolet;
+    height: 200px;width: 200px;
+}
+div:hover{
+    background-color: aqua;
+    border-radius: 50%;
+}
+li:nth-of-type(even){
+    background-color: lawngreen;
+} */
+/* div{
+    height: 300vh;
+    width: 300vw;
+    background-color: brown;
+
+}
+div:hover{
+    background-color: aqua;
+    border-radius: 200px;
+} */
+/* #child{
+
+
+height: 150px;
+width: 150px; 
+background-color: blueviolet;
+} */
+/* ul{
+    font-size: 3rem;
+} */
+/* div{
+    border: 2px solid green;
+    padding: 5px ;
+    margin: 50px;
+} */
+
+/* div{
+    background-color: rgb(255, 127, 165);
+    /* border: 2px solid yellow; */
+    /* height: 40px;
+    margin-bottom: 20px;
+}
+span{
+    background-color: darksalmon;
+    border: 2px solid rgb(50, 112, 205);
+    display: block; 
+    
+} */ */
+/* offset:-top,left,bottom,right; */
+/* type of position:-5,static,relative and absolute,fix. */
+/* relative is use for initial position. */
+/* absolute is use for parential moving position. */
+/* static is always work on by default */
+/* fix is same as absolute but not scroll. */
+/* section{
+    height: 100vh;
+    width:100vw ;
+    display: flex; */
+ /* flex-direction: column-reverse; */
+ /* justify-content: space-evenly; */
+ 
+  /* justify-content: space-between; */
+  /* justify-content: space-around; */
+  /* flex-wrap: wrap; */
+  /* align-items: center;
+  justify-content: center;
+} */
+div{
+   
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+div:nth-of-type(1){
+    background-color: blueviolet;
+     flex-basis:300px ;
+     /* flex-grow:1 ; */
+    /* position: absolute; */
+}
+div:nth-of-type(2){
+    background-color: rgb(226, 43, 89);
+    flex-shrink:3 ;
+    /* position: relative;
+    top:50px ; */
+}
+div:nth-of-type(3){
+    background-color: rgb(137, 226, 43);
+    /* position: fixed;
+     */
+}
+

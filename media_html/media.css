@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 127, 127);
+}
+div{
+    height: 250px;
+    width: 240px;
+    background-color: rgb(16, 139, 184);
+}
+@media screen and (max-width:500px){
+div{
+    border-radius: 50%;
+    background-color: rgb(34, 180, 90);
+}
+body{
+    background-color: purple;
+}
+   
+}

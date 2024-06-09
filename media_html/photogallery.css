@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container{
+    max-width: 1000px;
+    width: 90%;
+    margin: auto;
+    padding: 40px;
+}
+.heading{
+   margin-bottom: 2rem;
+}
+.picglry{
+    display: flex;
+    gap: 20px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.pic{
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    object-fit: cover;
+}

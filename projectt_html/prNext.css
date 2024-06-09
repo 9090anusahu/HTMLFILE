@@ -1,0 +1,16 @@
+/* section 1 */
+.section-1{
+    display: flex;
+    justify-content: center;
+}
+.nav{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.input{
+    height: 30px;
+    width: 490px;
+    border: 2px solid rgb(201, 197, 197);
+    box-shadow:2px solid rgb(152, 148, 148) ;
+}

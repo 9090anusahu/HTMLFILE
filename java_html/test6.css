@@ -1,0 +1,127 @@
+
+.navbar{
+  
+    display: flex;
+   font-family: Arial, Helvetica, sans-serif;
+   justify-content: center;
+   align-items: center;
+   
+}
+.navbar a{
+    padding: 2px;
+    margin-left: 50px;
+    justify-content: center;
+    align-content: center;
+}
+#one{
+    font-style: oblique;
+    margin-left: 50px;
+    font-size: 30px;
+}
+h1{
+   text-align: center;
+   margin-top: 10px;
+}
+p{
+   text-align: center;
+}
+section{
+    justify-content: center;
+    display: flex;
+    border-radius: 10px;
+}
+.five{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+   border-radius: 10px;
+}
+.five img{
+    height: 200px;
+    width: 250px;
+}
+.six{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+   border-radius: 10px;
+}
+.six img{
+    height: 200px;
+    width: 250px;
+}
+.sev{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+   border-radius: 10px;
+}
+.sev img{
+    height: 200px;
+    width: 250px;
+}
+.eigh{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+}
+.eigh img{
+    height: 200px;
+    width: 250px;
+}
+.nine{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+   border-radius: 10px;
+}
+.nine img{
+    height: 200px;
+    width: 250px;
+}
+.eigh{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+}
+.eigh img{
+    height: 200px;
+    width: 250px;
+}
+.nine{
+    height: 300px;
+    width: 250px;
+    border: 2px solid black;
+   margin: 20px;
+   border-radius: 10px;
+}
+.nine img{
+    height: 200px;
+    width: 250px;
+}
+#s{
+   margin-right: 170px;
+    color: brown;
+}
+#t{
+    margin-right: 170px;
+     color: brown;
+ }
+ #u{
+    margin-right: 170px;
+     color: brown;
+ }
+ #v{
+    margin-right: 170px;
+     color: brown;
+ }
+ #z{
+    margin-right: 170px;
+     color: brown;
+ }

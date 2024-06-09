@@ -1,0 +1,30 @@
+div img{
+    
+    height: 100px;
+    width: 100px;
+    border-radius:50% ;
+   /* background:linear-gradient(red, blue ) ; */
+    border: 5px solid black;
+    animation-name:somethink ;
+    animation-duration:900ms;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+    animation-timing-function:ease-in ;
+    
+   
+}
+
+@keyframes somethink{
+    0%{
+        
+        transform:translateX(0px) ;
+        /* transform: translate3d(0px); */
+    }
+    100%{
+        transform:translateX(85vW) rotate(360deg) ;
+        /* transform:translate3d() rotate(360deg) ;
+         */
+    }
+    
+
+}

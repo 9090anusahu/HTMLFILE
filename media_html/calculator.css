@@ -1,0 +1,21 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(39, 117, 163);
+    color: azure;
+    text-align: center;
+}
+input{
+
+    height: 50px;
+    width: 75px;
+    margin: 10px;
+    border-radius: 10px;
+    font-size: 40px;
+    
+}
+.btn:hover{
+    background-color: orangered;
+    cursor: pointer;
+}

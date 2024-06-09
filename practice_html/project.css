@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(246, 246, 114);
+}
+    h1{
+        color: rgb(246, 6, 6);
+       filter: blur(2px);
+       text-align: center;
+     
+    }
+    .one{
+        height: 350px;
+        width:350px;
+        float: right;
+        width: 30%;
+    }
+    
+    p{
+        font-style: initial;
+        font-size: 23px;
+        
+    }
+    .two{
+        /* margin-top:80px ; */
+        height: 250px;
+        width:250px;
+        float: left;
+        width: 40%;
+    }
+    .s{
+        /* margin-top:100px ; */
+       
+        font-style: initial;
+        font-size: 25px;
+    }
+    .n{
+        /* margin-top:80px ; */
+        height: 250px;
+        width:250px;
+        float: right;
+        width: 40%;
+    }
+    .i{
+        /* margin-top:100px ; */
+       
+        font-style: initial;
+        font-size: 25px;
+    }
+    h2{
+        margin-top:80px ;
+    }

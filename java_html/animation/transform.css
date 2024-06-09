@@ -1,0 +1,56 @@
+.container{
+    width: 450px;
+    height: 450px;
+    margin:80px auto ;
+    background-color: rgb(226, 155, 62);
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(19, 229, 190);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: large;
+    /* transform: scale(0.9);    */
+    /*apni size se compare karna or changing karna */
+
+     /* transform: skew(20deg ,10deg);       */
+     /*x y direction me changing in angle shape use degree */
+
+
+     /* transform: translate(80px ,50px); */
+     /* apni place se move karna */
+
+
+     /* transform: rotate(40deg); */
+     /* use for rotation */
+
+
+   transform-origin: 100px, 200px;
+   /* exact centre use */
+   /* transition: 1.5s ease; */
+   animation: anu 10s;
+
+}
+.box:hover{
+    transform: rotate(60deg);
+}
+/* @keyframes anu{
+    0%{
+        transform: rotate(20deg);
+    }
+    25%{
+        transform: rotate(50deg);
+    }
+    75%{
+        transform: rotate(70deg);
+    }
+    75%{
+        transform: rotate(85deg);
+    }
+    100%{
+        transform: rotate(100deg);
+    }
+
+} */
